@@ -3,3 +3,4 @@ NUM_PROCS = 6
 NETBOX_URL = "https://netbox.example.ac.uk"
 PREFIX_TAG = "scanrig"
 LAST_SEEN_DATABASE = "db.pickle"
+PROD_HOSTNAME = "localhost.localdomain" # you server fqdn
